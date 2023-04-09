@@ -16,6 +16,6 @@ I am a hardworking and ambitious individual with a great passion for computer sc
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Ganta-KH&icon=5&color=0)](https://visitcount.itsvg.in)
+[![](https://profile-counter.glitch.me/ganta-kh/count.svg?)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
