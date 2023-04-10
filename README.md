@@ -49,10 +49,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ganta-kh/ganta-kh/blob/output/snake.svg" alt="Snake animation" />
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Ganta-KH&icon=5&color=0)](https://visitcount.itsvg.in)
 
