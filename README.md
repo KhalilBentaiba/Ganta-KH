@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h2 align="left">Hi 👋! My name is Khalil Bentaiba and I am a hardworking and ambitious individual with a great passion for computer science.</h2>
+<h2 align="left">Hi 👋! I am Khalil Bentaiba.</h2>
 
 
 # 🌐 Socials:
